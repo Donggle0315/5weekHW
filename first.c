@@ -2,6 +2,6 @@
 
 int main(){
 	printf("first line\n");
-	
+	printf("second line\n");
 	return 0;
 }
